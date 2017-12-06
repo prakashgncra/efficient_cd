@@ -1,0 +1,7 @@
+full/path/to/Test
+full/path/to/Test/Project-1
+full/path/to/Test/Project-2
+full/path/to/Test/Project-1/A1
+full/path/to/Test/Project-1/B1
+full/path/to/Test/Project-2/A2
+full/path/to/Test/Project-2/B2
